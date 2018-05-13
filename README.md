@@ -19,7 +19,7 @@ widest audience possible?
 Your application can maximize its reach by "standing" on the **most powerful
 publication medium ever created**: the World Wide
 Web. To benefit from the Web, your application has only to honor **one** rule:
-**all screens it provides must be described in HTML**.  Regardless the
+**all screens it provides must be described in HTML**.  Regardless of the
 programming language used (Ruby, Python, the NodeJS JavaScript environment), if
 the application presents screens, or "interfaces" in HTML, it's ready to share
 its capabilities with _billions of people on the Web_ from its very first
